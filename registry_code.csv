@@ -1,1 +1,2 @@
-code,	name,	description
+code,	name,			description
+1,		LikeCoin chain,	The blockchain for the LikeCoin token, which aims for rewarding content curations. Project page: https://like.co, Repo: https://github.com/likecoin/likecoin-chain, Block explorer: https://likecoin.bigdipper.live, LikeCoin chain - ISCN: https://docs.like.co/developer/international-standard-content-number-iscn
